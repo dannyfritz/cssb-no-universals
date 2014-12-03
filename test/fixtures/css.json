@@ -1,0 +1,4 @@
+{
+	"nouniversal": ".class element {}",
+	"universal": ".class element * {}"
+}
