@@ -1,6 +1,6 @@
 {
   "name": "cssb-no-universals",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A css-bouncer plugin for ensuring there are no universal *'s in your CSS.",
   "main": "index.js",
   "directories": {
